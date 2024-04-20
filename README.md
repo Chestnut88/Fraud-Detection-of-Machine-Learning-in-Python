@@ -1,1 +1,2 @@
 # Fraud-Detection-of-Machine-Learning-in-Python
+- Developed and evaluated machine learning models to predict loan defaults for a major financial institution. Explored logistic regression, random forest, GBM/XGBoost, neural network, and stacking ensemble models. Conducted EDA, data preprocessing, model training, parameter tuning, and performance evaluation. Provided insights on model comparison, feature importance, ROC and PR curves, and operational strategy at a 5% false positive rate. Delivered an executive summary and detailed analysis report.
